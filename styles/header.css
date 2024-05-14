@@ -1,0 +1,37 @@
+.logo-bem {
+    height: 5%;
+    width: 5%;
+}
+
+.cabeçalho {
+    text-align: center;
+}
+.titulo {
+    color:  #2D1E1E;
+}
+
+.titulo--negrito{
+    color:  #2D1E1E;
+}
+.opçoes__item {
+    font-size: 15px;
+    color:  #0b188b;   
+}
+.lista-menu__link {
+    text-decoration: none;
+    color: #0b188b
+}
+.lista {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+.lista-menu__item{
+    border: 1px solid black;
+    border-radius: 20%;
+    padding: 1px;
+    text-align: center;
+
+
+
+}
